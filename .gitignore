@@ -76,3 +76,4 @@ build/**
 lib/services/keys.dart
 key.jks
 android/key.properties
+android/app/google-services.json
